@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Computer Science and Engineering at American International University-Bangladesh 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me - www.linkedin.com/in/ferdous-sazid-444b52199
 
 <!---
 Ferdoussazid/Ferdoussazid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
